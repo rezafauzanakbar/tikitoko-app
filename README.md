@@ -192,11 +192,11 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- Related Projects -->
 ## Related Project
-:rocket: [`Tikitoko (Backend)`](https://github.com/brndnwjy/tikitoko-api)
+:rocket: [`Tikitoko (Backend)`](https://github.com/rezafauzanakbar/tikitoko-api)
 
 :rocket: [`Tikitoko App Demo`](https://tikitoko.netlify.app)
 
-:rocket: [`Tikitoko (Admin)`](https://github.com/brndnwjy/tikitoko-admin)
+:rocket: [`Tikitoko (Admin)`](https://github.com/rezafauzanakbar/tikitoko-admin)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
